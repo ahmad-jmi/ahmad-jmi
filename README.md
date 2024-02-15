@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ahmad Raza
-- 👀 I’m interested in ... Java, Spring Boot, Embedded development, Python Development
-- 🌱 I’m currently learning ... Hibernate and Microservices
+- 👀 I’m a backend developer skelled with Java, Spring Boot, Hibernate, MySQL, PostGreSql, Microservices, design pattern
+- 🌱 I’m currently learning ... System design and microservices design
 - 💞️ I’m looking to collaborate on ... Backend Development
-- 📫 How to reach me ... connect with me @8505866857 and ahmadme.jmi@gmail.com
+- 📫 How to reach me ... connect with me @8505866857 and ahmadme.amu@gmail.com
 
 <!---
 ahmad-jmi/ahmad-jmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
